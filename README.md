@@ -6,11 +6,11 @@
 
 ---
 
-#### Chapter 3. Linear Regression
+#### [Chapter 3. Linear Regression](https://github.com/aiaaua/pytorch_tutorial/tree/main/chapter3)
 
-#### Chapter 4. Artificial Neural Network
+#### [Chapter 4. Artificial Neural Network](https://github.com/aiaaua/pytorch_tutorial/tree/main/chapter4)
 
-#### Chapter 5. Convolutional Neural Network
+#### [Chapter 5. Convolutional Neural Network](https://github.com/aiaaua/pytorch_tutorial/tree/main/chapter5)
 
 #### Chapter 6. Recurrent Neural Network
 
