@@ -12,7 +12,7 @@
 
 #### [Chapter 5. Convolutional Neural Network](https://github.com/aiaaua/pytorch_tutorial/tree/main/chapter5)
 
-#### Chapter 6. Recurrent Neural Network
+#### [Chapter 6. Recurrent Neural Network](https://github.com/aiaaua/pytorch_tutorial/tree/main/chapter6)
 
 #### Chapter 7. Problems and Solutions
 
