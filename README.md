@@ -2,7 +2,7 @@
 
 ![book_img](./docs/book_img.jpg)
 
-책 내용 정리 중
+책 내용 정리 중 입니다.
 
 ---
 
