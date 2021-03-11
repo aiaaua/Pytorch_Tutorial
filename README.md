@@ -14,7 +14,7 @@
 
 #### [Chapter 6. Recurrent Neural Network](https://github.com/aiaaua/pytorch_tutorial/tree/main/chapter6)
 
-#### Chapter 7. Problems and Solutions
+#### [Chapter 7. Problems and Solutions](https://github.com/aiaaua/pytorch_tutorial/tree/main/chapter7)
 
 #### Chapter 8. Neural Style Transfer
 
