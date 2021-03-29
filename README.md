@@ -1,4 +1,4 @@
-# Pytorch_tutorial
+# Pytorch Tutorial
 
 ![book_img](./docs/book_img.jpg)
 
